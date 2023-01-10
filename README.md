@@ -11,4 +11,4 @@ Please read the attached file, it'll lead you to how I managed to develop this m
 its very simple, import this project in Android Studio and run this project (firstly do build of this project using gradle).
 
 # Credits
-Kindly give ratings, if you find this repository useful. Thanks!
+Kindly give ratings, if you find this repository useful. Thanks for reading this!
